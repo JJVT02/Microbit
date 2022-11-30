@@ -9,6 +9,7 @@ Crea un nuevo proyecto que marque la temperatura detectada en el panel led al pu
 
 ## Ejercicio 3
 En este ultimo proyecto deberas hacer que la pantalla muestre una imagen al agitar la microbit, para ello usaremos la entrada "Si agitado" sin editar y agregaremos un bloque de pixeles con la imagen que deseemos.
-![image](/Contenido/Captura_Ejercicio3.png)
+![image](Contenido/Captura_Ejercicio3.png)
 
 # Ejercicios completos (Adolfo y Julio)
+-[Ejercicio 1](Contenido/microbit-Modulo1Ejercicio1.hex)
