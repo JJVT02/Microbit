@@ -5,3 +5,5 @@
 ## 3 - [Programacion basica 2](modulo3.md)
 ## 4 - [Ampliacion](modulo4.md)
 ## 5 - [Proyecto](proyecto.md)
+## [Autores](autores.md)
+## [Licencia](licencia.md)
