@@ -12,4 +12,6 @@ En este ultimo proyecto deberas hacer que la pantalla muestre una imagen al agit
 ![image](Contenido/Captura_Ejercicio3.png)
 
 # Ejercicios completos (Adolfo y Julio)
--[Ejercicio 1](Contenido/microbit-Modulo1Ejercicio1.hex)
+- [Ejercicio 1](Contenido/microbit-Modulo1Ejercicio1.hex)
+- [Ejercicio 2](Contenido/microbit-Modulo1Ejercicio2.hex)
+- [Ejercicio 3](Contenido/microbit-Modulo1Ejercicio3.hex)
