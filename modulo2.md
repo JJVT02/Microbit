@@ -14,4 +14,5 @@ Por ultimo, programaremos una melodía que se reproducira al presionar el botón
 
 ![image](modulo2act3.png)
 
-## tareas
+# Ejercicios Completos
+(microbit-modulo2act1.hex)
