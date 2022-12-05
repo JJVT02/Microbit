@@ -15,4 +15,6 @@ Por ultimo, programaremos una melodía que se reproducira al presionar el botón
 ![image](modulo2act3.png)
 
 # Ejercicios Completos
-(microbit-modulo2act1.hex)
+- [Ejercicio 1](microbit-modulo2act1.hex)
+- [Ejercicio 2](microbit-modulo2act2.hex)
+- [Ejercicio 3](microbit-modulo2act3.hex)
