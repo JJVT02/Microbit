@@ -3,7 +3,7 @@
 En el primer ejercicio deberemos usar una variable para que, al pulsar A o B, el numero mostrado en pantalla aumente o disminuye de valor.
 Al presionar el boton A, irá disminuyendo en 1, al presionar el B, irá aumentando.
 
-![image](modulo3act1.png)
+![image](modulo3act1ampliacion.png)
 
 ## Ejercicio 2
 Aquí aprovecharemos el uso de la variable anterior de una forma similar para mostrar una imagen mas grande de lo que cabría en la microbit, por lo que
